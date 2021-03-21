@@ -15,4 +15,3 @@ install:
 	$(INSTALL_PROGRAM)	sipscan.pl		$(DESTDIR)/usr/bin/sipscan
 	$(INSTALL_PROGRAM)	sipsniff.pl		$(DESTDIR)/usr/bin/sipsniff
 	$(INSTALL_PROGRAM)	sipspy.pl		$(DESTDIR)/usr/bin/sipspy
-	$(INSTALL_PROGRAM)	version			$(DESTDIR)/usr/bin/version
